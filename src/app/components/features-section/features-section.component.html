@@ -1,0 +1,16 @@
+<div class="container mx-auto px-6 lg:px-20 my-20">
+    <div class="mb-12 text-center">
+        <h3 class="text-sm font-semibold text-teal-600 uppercase">Our Features</h3>
+        <h2 class="text-4xl font-semibold text-gray-900 mt-2 lg:w-1/2 lg: mx-auto">Better Digital Insurance Begins Right Here</h2>
+    </div>
+  
+    <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
+        <app-feature-card
+            *ngFor="let card of cardData"
+            [title]="card.title"
+            [description]="card.description"
+            [icon]="card.icon">
+        </app-feature-card>
+    </div>
+</div>
+  

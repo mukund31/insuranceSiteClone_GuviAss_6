@@ -1,0 +1,16 @@
+<div class="text-center my-8">
+    <p class="text-teal-600 text-sm uppercase font-semibold">Insurance Services</p>
+    <h2 class="text-5xl font-semibold my-2 w-3/4 lg:w-1/2 mx-auto justify-center">Take The Worry Out Of Life With Insurance Protection</h2>
+</div>
+
+<div class="lg:flex lg:gap-4 justify-center px-10">
+    <app-services-card
+        class="lg: w-1/3"
+        *ngFor="let card of cards"
+        [title]="card.title"
+        [category]="card.category"
+        [imageUrl]="card.imageUrl">
+    </app-services-card>
+</div>
+
+<p class="w-3/4 lg:w-1/3 mx-auto justify-center text-center my-14">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error magni saepe, aliquam dicta expedita quis repellat eos <span class="text-teal-600 font-bold">View All</span></p>
