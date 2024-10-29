@@ -21,10 +21,8 @@
 
 
 ## Mobile View
-![image](https://github.com/user-attachments/assets/242ff857-7710-4445-a994-e687a3f323a2)
-![image](https://github.com/user-attachments/assets/f2917e0f-8047-45a5-928c-16b4af16d95b)
-![image](https://github.com/user-attachments/assets/d2547b9e-4d23-498a-b4db-4e8f6607fb5c)
-![image](https://github.com/user-attachments/assets/69255339-87cf-48db-9f45-6732b07bff07)
+![guvi ass6](https://github.com/user-attachments/assets/f96d7cf0-50f1-426f-8544-b9b95a0391d5)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
