@@ -1,4 +1,31 @@
-# InsuranceSiteCloneGuviAss6
+# Insurance Site Clone Guvi Angular Assignment 6
+
+## Sections
+### Navbar
+![image](https://github.com/user-attachments/assets/d7c94130-3634-4b4e-935a-55bf76c8158a)
+
+### Banner
+![image](https://github.com/user-attachments/assets/f1eb915d-a032-45f4-8610-d8b588cddec2)
+
+### Features Section
+![image](https://github.com/user-attachments/assets/ce4995cb-4a93-4b06-8c4c-e9d6850936c4)
+
+### Services Section
+![image](https://github.com/user-attachments/assets/3366188d-557d-46c2-bd69-03f996cbd2d9)
+
+### Subscribe Section
+![image](https://github.com/user-attachments/assets/03c719cd-8753-4071-85ba-6be018a840c1)
+
+### Footer Section
+![image](https://github.com/user-attachments/assets/4914395d-6ad6-42c7-b8f7-8c0e3f4c3f3f)
+
+
+## Mobile View
+![image](https://github.com/user-attachments/assets/242ff857-7710-4445-a994-e687a3f323a2)
+![image](https://github.com/user-attachments/assets/f2917e0f-8047-45a5-928c-16b4af16d95b)
+![image](https://github.com/user-attachments/assets/d2547b9e-4d23-498a-b4db-4e8f6607fb5c)
+![image](https://github.com/user-attachments/assets/69255339-87cf-48db-9f45-6732b07bff07)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
 
